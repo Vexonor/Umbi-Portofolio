@@ -1,6 +1,5 @@
 "use client";
 
-import { IconArrowLeft, IconArrowRight } from "@tabler/icons-react";
 import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
 import { useEffect, useState } from "react";
@@ -153,13 +152,13 @@ export const AnimatedTestimonials = ({
               onClick={handlePrev}
               className="h-7 w-7 rounded-full bg-gray-100 dark:bg-neutral-800 flex items-center justify-center group/button"
             >
-              <IconArrowLeft className="h-5 w-5 text-white dark:text-neutral-400 group-hover/button:rotate-12 transition-transform duration-300" />
+              <svg xmlns="http://www.w3.org/2000/svg" className="size-5" fill="#000000" viewBox="0 0 256 256"><path d="M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"></path></svg>
             </button>
             <button
               onClick={handleNext}
               className="h-7 w-7 rounded-full bg-gray-100 dark:bg-neutral-800 flex items-center justify-center group/button"
             >
-              <IconArrowRight className="h-5 w-5 text-white dark:text-neutral-400 group-hover/button:-rotate-12 transition-transform duration-300" />
+              <svg xmlns="http://www.w3.org/2000/svg" className="size-5" fill="#000000" viewBox="0 0 256 256"><path d="M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z"></path></svg>
             </button>
           </div>
         </div>
