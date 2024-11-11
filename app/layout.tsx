@@ -20,6 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <link rel="icon" type="image/png" href="/img/Logo-thumbnail.svg" />
       <body
         className={`${montserrat.className} bg-victoria antialiased`}
       >
