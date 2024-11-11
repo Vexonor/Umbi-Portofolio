@@ -16,7 +16,8 @@ const config = {
         "golden-poppy" : "#F8C301",
         "malibu" : "#4FBEED",
         "shalimar" : "#F8F8AB",
-        "white" : "#FFFFFF"
+        "white" : "#FFFFFF",
+        "black" : "#323232"
     },
     container: {
       center: true,

@@ -121,7 +121,7 @@ export const AnimatedTestimonials = ({
             <p className="text-lg font-medium text-white">
               {testimonials[active].designation}
             </p>
-            <motion.p className="text-lg text-white mt-8">
+            <motion.p className="text-lg text-white mt-8 h-40">
               {testimonials[active].quote.split(" ").map((word, index) => (
                 <motion.span
                   key={index}
@@ -147,18 +147,18 @@ export const AnimatedTestimonials = ({
               ))}
             </motion.p>
           </motion.div>
-          <div className="flex gap-4 pt-12 md:pt-0">
+          <div className="flex gap-4 pt-12 md:pt-10">
             <button
               onClick={handlePrev}
-              className="h-7 w-7 rounded-full bg-gray-100 dark:bg-neutral-800 flex items-center justify-center group/button"
+              className="h-10 w-10 rounded-full bg-golden-poppy dark:bg-neutral-800 flex items-center justify-center group/button"
             >
-              <svg xmlns="http://www.w3.org/2000/svg" className="size-5" fill="#000000" viewBox="0 0 256 256"><path d="M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"></path></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" className="size-5" fill="#FFFFFF" viewBox="0 0 256 256"><path d="M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"></path></svg>
             </button>
             <button
               onClick={handleNext}
-              className="h-7 w-7 rounded-full bg-gray-100 dark:bg-neutral-800 flex items-center justify-center group/button"
+              className="h-10 w-10 rounded-full bg-golden-poppy dark:bg-neutral-800 flex items-center justify-center group/button"
             >
-              <svg xmlns="http://www.w3.org/2000/svg" className="size-5" fill="#000000" viewBox="0 0 256 256"><path d="M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z"></path></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" className="size-5" fill="#FFFFFF" viewBox="0 0 256 256"><path d="M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z"></path></svg>
             </button>
           </div>
         </div>
