@@ -22,7 +22,7 @@ export default function RootLayout({
     <html lang="en">
       <link rel="icon" type="image/png" href="/img/Logo-thumbnail.svg" />
       <body
-        className={`${montserrat.className} bg-victoria antialiased`}
+        className={`${montserrat.className} bg-victoria scroll-smooth antialiased`}
       >
         {children}
       </body>

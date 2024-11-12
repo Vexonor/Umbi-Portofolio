@@ -29,7 +29,7 @@ const Carousel = () => {
                                         </h3>
                                         <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-xs font-semibold bg-golden-poppy text-white">Game</span>
                                     </div>
-                                    <p className="text-xs overflow-y-auto h-36 mt-3">
+                                    <p className="text-xs lg:text-base overflow-y-auto h-36 mt-3">
                                         Indonesia, sebagai negara agraris dengan populasi lebih dari 270 juta jiwa, memiliki tantangan
                                         besar dalam hal ketahanan pangan dan kemiskinan. Dalam konteks ini, Tujuan Pembangunan
                                         Berkelanjutan (SDGs) yang diadopsi oleh PBB menjadi sangat relevan, terutama SDG 2 (Zero Hunger)
@@ -64,7 +64,7 @@ const Carousel = () => {
                                         </h3>
                                         <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-xs font-semibold bg-golden-poppy text-white">Game</span>
                                     </div>
-                                    <p className="text-xs overflow-y-auto h-36 mt-3">
+                                    <p className="text-xs lg:text-base overflow-y-auto h-36 mt-3">
                                         Dengan memanfaatkan sifat alami anak-anak yang mudah bosan,
                                         pembuatan game pengenalan poladengan kedok simulasi restoran
                                         menjadi salah satu solusi efektif mengenai masalah ini. Dengan
@@ -100,7 +100,7 @@ const Carousel = () => {
                                         </h3>
                                         <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-[0.5rem] text-center md:text-xs font-semibold bg-victoria text-white">UI / UX Design</span>
                                     </div>
-                                    <p className="text-xs overflow-y-auto h-32 mt-3">
+                                    <p className="text-xs lg:text-base overflow-y-auto h-32 mt-3">
                                         Mockup website rental kendaraan ini memiliki halaman utama dengan header berisi logo, navigasi, dan tombol login/daftar,
                                         serta hero section dengan gambar besar kendaraan, kolom pencarian singkat, dan beberapa kendaraan populer yang bisa disewa.
                                         Tersedia juga testimoni pelanggan, serta keunggulan layanan seperti harga terjangkau dan layanan 24/7. Di halaman detail kendaraan,
@@ -132,7 +132,7 @@ const Carousel = () => {
                                         </h3>
                                         <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-[0.5rem] text-center md:text-xs font-semibold bg-victoria text-white">UI / UX Design</span>
                                     </div>
-                                    <p className="text-xs overflow-y-auto h-28 mt-3">
+                                    <p className="text-xs lg:text-base overflow-y-auto h-28 mt-3">
                                         The planned application is designed as a web-based platform utilizing a Content Management System
                                         (CMS) model to efficiently manage information for SMK Muhammadiyah Plus Batam Kota.
                                         This comprehensive system will cater to various aspects of school management, including school
@@ -166,7 +166,7 @@ const Carousel = () => {
                                         </h3>
                                         <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-[0.5rem] text-center md:text-xs font-semibold bg-victoria text-white">UI / UX Design</span>
                                     </div>
-                                    <p className="text-xs overflow-y-auto h-32 mt-3">
+                                    <p className="text-xs lg:text-base overflow-y-auto h-32 mt-3">
                                         Mockup website furniture ini memiliki halaman utama yang modern dengan header berisi logo, navigasi, ikon keranjang, dan tombol login/daftar, serta hero section dengan gambar furniture besar, tombol Lihat Koleksi, dan kategori produk populer seperti Sofa atau Meja. Di bagian produk
                                         unggulan, pengunjung dapat melihat produk-produk populer lengkap dengan harga dan opsi Tambah ke Keranjang. Halaman detail produk memuat foto, deskripsi, harga, dan opsi pembelian.
                                     </p>
@@ -196,7 +196,7 @@ const Carousel = () => {
                                         </h3>
                                         <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-[0.5rem] text-center md:text-xs font-semibold bg-victoria text-white">UI / UX Design</span>
                                     </div>
-                                    <p className="text-xs overflow-y-auto h-32 mt-3">
+                                    <p className="text-xs lg:text-base overflow-y-auto h-32 mt-3">
                                         This application was developed to help the people of Batam City in managing waste more efficiently,
                                         including sorting, reporting problems, and monitoring and analysis by the Government. Additionally,
                                         the app designed to reduce the volume of waste in landfills through recycling programs and improve
@@ -228,7 +228,7 @@ const Carousel = () => {
                                         </h3>
                                         <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-[0.5rem] text-center md:text-xs font-semibold bg-malibu text-white">Website Application</span>
                                     </div>
-                                    <p className="text-xs overflow-y-auto h-32 mt-3">
+                                    <p className="text-xs lg:text-base overflow-y-auto h-32 mt-3">
                                         It's a web-based vehicle rental application that services services. Aimed at the manufacture of information systems to help tenants find better vehicle rental services and bookings.
                                     </p>
                                     <a href="https://github.com/Vexonor/PBL-RentalKendaraan.git" className="w-full flex justify-center">
@@ -257,7 +257,7 @@ const Carousel = () => {
                                         </h3>
                                         <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-[0.5rem] text-center md:text-xs font-semibold bg-malibu text-white">Website Application</span>
                                     </div>
-                                    <p className="text-xs overflow-y-auto h-24 mt-3">
+                                    <p className="text-xs lg:text-base overflow-y-auto h-24 mt-3">
                                         The planned application is designed as a web-based platform utilizing a Content Management System (CMS) model to
                                         efficiently manage information for SMK Muhammadiyah Plus Batam Kota. This comprehensive system will cater to various
                                         aspects of school management, including school details, news updates, announcements, a gallery for events and achievements,
