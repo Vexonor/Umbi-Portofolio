@@ -6,10 +6,10 @@ import Image from 'next/image';
 const Footer = () => {
     return (
         <footer className="w-11/12 mx-auto text-center">
-            <div className="grid grid-cols-2 p-10 bg-golden-poppy rounded-md my-10">
-                <div className="col-span-1 flex justify-center items-center gap-4 border-white border-r-4">
+            <div className="grid grid-cols-1 lg:grid-cols-2 p-10 bg-golden-poppy rounded-md my-10">
+                <div className="col-span-1 flex justify-center items-center gap-4 lg:border-white lg:border-r-4">
                     <Image
-                        className="size-40 object-cover object-center"
+                        className="size-20 md:size-40 object-cover object-center"
                         src="/img/Logo.svg"
                         alt="Umbi Valley"
                         width={1000}
@@ -41,13 +41,13 @@ const Footer = () => {
                 </div>
                 <div className="col-span-1 flex justify-center items-center px-10">
                     <Image
-                        className="max-w-full size-60 rounded-b-lg object-cover object-top z-10"
+                        className="max-w-full size-40 md:size-60 rounded-b-lg object-cover object-top z-10"
                         src="/img/asset-1.svg"
                         alt="Browser Placeholder"
                         width={800}
                         height={600}
                     />
-                    <div className="flex flex-col w-[25rem] font-semibold bg-white rounded-md p-4 md:p-5 dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 gap-4">
+                    <div className="flex flex-col w-[15rem] md:w-[25rem] font-semibold bg-white rounded-md p-4 md:p-5 gap-4 text-[0.6rem] md:text-lg">
                         Let&apos;s Collaboration With Us At Your Future Project
                     </div>
                 </div>

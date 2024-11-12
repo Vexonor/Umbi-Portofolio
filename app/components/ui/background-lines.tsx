@@ -17,7 +17,7 @@ export const BackgroundLines = ({
   return (
     <div
       className={cn(
-        "h-[20rem] md:h-screen w-full dark:bg-black",
+        "h-screen w-screen md:w-full dark:bg-black",
         className
       )}
     >
@@ -84,6 +84,38 @@ const SVG = ({
     "#F8C301",
     "#F8C301",
     "#F8C301",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#F8C301",
+    "#F8C301",
+    "#F8C301",
+    "#F8C301",
+    "#F8C301",
+    "#F8C301",
+    "#F8C301",
+    "#F8C301",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
+    "#4FBEED",
   ];
   return (
     <motion.svg
