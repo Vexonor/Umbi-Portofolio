@@ -8,7 +8,7 @@ export function BackgroundLine() {
                 Umbi <span className="text-golden-poppy">Dev</span>
             </h2>
             <p className="w-screen md:max-w-xl mx-auto font-semibold text-xl dark:text-neutral-400 text-center">
-                " We Growth From Bottom "
+                " We Growth From The Bottom "
             </p>
         </BackgroundLines>
     );
