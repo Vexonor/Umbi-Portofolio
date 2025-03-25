@@ -38,7 +38,7 @@ const Carousel = () => {
                                         lahan, dan ketidakstabilan harga pasar. Pengentasan Kemiskinan tetap menjadi isu utama di banyak
                                         daerah pedesaan di Indonesia.
                                     </p>
-                                    <a href="https://youtu.be/6KEa5zS13c8?si=Ze_g0YZEZj5hxpG4" className="w-full flex justify-center">
+                                    <a href="https://youtu.be/6KEa5zS13c8?si=Ze_g0YZEZj5hxpG4" className="w-full flex justify-center" target="_blank">
                                         <button className="fixed bottom-5 w-max md:w-[20rem] text-white rounded-sm cursor-pointer bg-victoria px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F8C301,-0.5rem_-0.5rem_#F8F8AB] transition">
                                             Check !
                                         </button>
@@ -74,7 +74,7 @@ const Carousel = () => {
                                         mengamati pola-pola tertentu dalam tata letak restoran, pesanan pelanggan, atau
                                         polaperilaku karakter dalam permainan.
                                     </p>
-                                    <a href="https://youtu.be/PSTpbxVHQmQ?si=U34h3xKY-e2weCtR" className="w-full flex justify-center">
+                                    <a href="https://youtu.be/PSTpbxVHQmQ?si=U34h3xKY-e2weCtR" className="w-full flex justify-center" target="_blank">
                                         <button className="fixed bottom-5 w-max md:w-[20rem] text-white rounded-sm cursor-pointer bg-victoria px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F8C301,-0.5rem_-0.5rem_#F8F8AB] transition">
                                             Check !
                                         </button>
@@ -96,17 +96,14 @@ const Carousel = () => {
                                 <div className="p-4 md:p-5">
                                     <div className="flex items-center gap-4">
                                         <h3 className="text-sm md:text-xl font-bold">
-                                            Mockup Website Rental Kendaraan
+                                            su-re.co Website Design
                                         </h3>
                                         <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-[0.5rem] text-center md:text-xs font-semibold bg-victoria text-white">UI / UX Design</span>
                                     </div>
                                     <p className="text-xs lg:text-base overflow-y-auto h-32 mt-3">
-                                        Mockup website rental kendaraan ini memiliki halaman utama dengan header berisi logo, navigasi, dan tombol login/daftar,
-                                        serta hero section dengan gambar besar kendaraan, kolom pencarian singkat, dan beberapa kendaraan populer yang bisa disewa.
-                                        Tersedia juga testimoni pelanggan, serta keunggulan layanan seperti harga terjangkau dan layanan 24/7. Di halaman detail kendaraan,
-                                        pengguna dapat melihat foto, deskripsi lengkap, harga, serta formulir pemesanan.
+                                        Redesigning the UI/UX of a website using Figma to create a clean and visually appealing design. This involves applying UX principles by improving the website's layout structure to minimize excessive scrolling and enhance user convenience. Additionally, it includes analyzing UX issues such as inconsistent navigation, content, and typography to ensure a seamless and user-friendly experience.
                                     </p>
-                                    <a href="https://www.figma.com/design/OEANn5LmlDBbFKnoNuulfz/new?node-id=0-1&t=Rw5b97wKPYx7nass-1" className="w-full flex justify-center">
+                                    <a href="https://www.figma.com/design/j5T56OiAm48Z7JFgH6IU6X/su-re.co-Design?node-id=19-55&t=Me81FSkB3uxhn4j3-1" className="w-full flex justify-center" target="_blank">
                                         <button className="fixed bottom-5 w-max md:w-[20rem] text-white rounded-sm cursor-pointer bg-victoria px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F8C301,-0.5rem_-0.5rem_#F8F8AB] transition">
                                             Check !
                                         </button>
@@ -140,7 +137,7 @@ const Carousel = () => {
                                         management, directories for teachers, staff, and students, facilities information, social media
                                         updates, and admission details (PPDB).
                                     </p>
-                                    <a href="https://www.figma.com/design/chXk9NkiJKUIxMHeW3oPrV/Wireframe?node-id=0-1&t=LmW8JqdLCVD2XvYE-1" className="w-full flex justify-center">
+                                    <a href="https://www.figma.com/design/chXk9NkiJKUIxMHeW3oPrV/Wireframe?node-id=0-1&t=LmW8JqdLCVD2XvYE-1" className="w-full flex justify-center" target="_blank">
                                         <button className="fixed bottom-5 w-max md:w-[20rem] text-white rounded-sm cursor-pointer bg-victoria px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F8C301,-0.5rem_-0.5rem_#F8F8AB] transition">
                                             Check !
                                         </button>
@@ -170,7 +167,7 @@ const Carousel = () => {
                                         Mockup website furniture ini memiliki halaman utama yang modern dengan header berisi logo, navigasi, ikon keranjang, dan tombol login/daftar, serta hero section dengan gambar furniture besar, tombol Lihat Koleksi, dan kategori produk populer seperti Sofa atau Meja. Di bagian produk
                                         unggulan, pengunjung dapat melihat produk-produk populer lengkap dengan harga dan opsi Tambah ke Keranjang. Halaman detail produk memuat foto, deskripsi, harga, dan opsi pembelian.
                                     </p>
-                                    <a href="https://www.figma.com/design/4uSS9yowz1L8OhGsCG4yJV/Flipper?node-id=0-1&t=WqgsGNeSaNybXRDg-1" className="w-full flex justify-center">
+                                    <a href="https://www.figma.com/design/4uSS9yowz1L8OhGsCG4yJV/Flipper?node-id=0-1&t=WqgsGNeSaNybXRDg-1" className="w-full flex justify-center" target="_blank">
                                         <button className="fixed bottom-5 w-max md:w-[20rem] text-white rounded-sm cursor-pointer bg-victoria px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F8C301,-0.5rem_-0.5rem_#F8F8AB] transition">
                                             Check !
                                         </button>
@@ -202,36 +199,7 @@ const Carousel = () => {
                                         the app designed to reduce the volume of waste in landfills through recycling programs and improve
                                         the overall cleanliness of the city.
                                     </p>
-                                    <a href="https://www.figma.com/design/Q9svl21EOOntoROhBDbsz2/Desain-Antarmuka-PBL-IF-09?node-id=247-43&t=qnqvbUQZByDbDVqi-1" className="w-full flex justify-center">
-                                        <button className="fixed bottom-5 w-max md:w-[20rem] text-white rounded-sm cursor-pointer bg-victoria px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F8C301,-0.5rem_-0.5rem_#F8F8AB] transition">
-                                            Check !
-                                        </button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="hs-carousel-slide bg-white md:bg-none">
-                        <div className="relative bg-white border shadow-sm lg:rounded-xl">
-                            <Image
-                                className="w-full h-32 md:h-80 lg:h-full object-cover object-top md:brightness-50"
-                                src="/img/project-7.svg"
-                                alt="Project 3"
-                                width={1000}
-                                height={1000}
-                            />
-                            <div className="absolute top-32 md:top-80 lg:top-72 start-0 end-0 text-black lg:text-white font-montserrat">
-                                <div className="p-4 md:p-5">
-                                    <div className="flex items-center gap-4">
-                                        <h3 className="text-sm md:text-xl font-bold">
-                                            Website Rental Kendaraan
-                                        </h3>
-                                        <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-[0.5rem] text-center md:text-xs font-semibold bg-malibu text-white">Website Application</span>
-                                    </div>
-                                    <p className="text-xs lg:text-base overflow-y-auto h-32 mt-3">
-                                        It's a web-based vehicle rental application that services services. Aimed at the manufacture of information systems to help tenants find better vehicle rental services and bookings.
-                                    </p>
-                                    <a href="https://github.com/Vexonor/PBL-RentalKendaraan.git" className="w-full flex justify-center">
+                                    <a href="https://www.figma.com/design/Q9svl21EOOntoROhBDbsz2/Desain-Antarmuka-PBL-IF-09?node-id=247-43&t=qnqvbUQZByDbDVqi-1" className="w-full flex justify-center" target="_blank">
                                         <button className="fixed bottom-5 w-max md:w-[20rem] text-white rounded-sm cursor-pointer bg-victoria px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F8C301,-0.5rem_-0.5rem_#F8F8AB] transition">
                                             Check !
                                         </button>
@@ -264,7 +232,7 @@ const Carousel = () => {
                                         academic information management, directories for teachers, staff, and students, facilities information, social media updates,
                                         and admission details (PPDB).
                                     </p>
-                                    <a href="https://github.com/fathualr/PBL-SistemInformasiSMK.git" className="w-full flex justify-center">
+                                    <a href="https://github.com/fathualr/PBL-SistemInformasiSMK.git" className="w-full flex justify-center" target="_blank">
                                         <button className="fixed bottom-5 w-max md:w-[20rem] text-white rounded-sm cursor-pointer bg-victoria px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F8C301,-0.5rem_-0.5rem_#F8F8AB] transition">
                                             Check !
                                         </button>
