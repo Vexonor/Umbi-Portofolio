@@ -241,6 +241,35 @@ const Carousel = () => {
                             </div>
                         </div>
                     </div>
+                    <div className="hs-carousel-slide bg-white md:bg-none">
+                        <div className="relative bg-white border shadow-sm lg:rounded-xl">
+                            <Image
+                                className="w-full h-32 md:h-80 lg:h-full object-cover object-top md:brightness-50"
+                                src="/img/project-9.png"
+                                alt="Project 3"
+                                width={1000}
+                                height={1000}
+                            />
+                            <div className="absolute top-32 md:top-80 lg:top-72 start-0 end-0 text-black lg:text-white font-montserrat">
+                                <div className="p-4 md:p-5">
+                                    <div className="flex items-center gap-4">
+                                        <h3 className="text-sm md:text-xl font-bold">
+                                            Website Ulearn (Result of Our Competition at Infinte Learning)
+                                        </h3>
+                                        <span className="w-max inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-[0.5rem] text-center md:text-xs font-semibold bg-malibu text-white">Website Application</span>
+                                    </div>
+                                    <p className="text-xs lg:text-base overflow-y-auto h-24 mt-3">
+                                        We made all this in just about 4 hours because of the competition rules so one day we will make it complete.
+                                    </p>
+                                    <a href="https://ulearn-swart.vercel.app/" className="w-full flex justify-center" target="_blank">
+                                        <button className="fixed bottom-5 w-max md:w-[20rem] text-white rounded-sm cursor-pointer bg-victoria px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F8C301,-0.5rem_-0.5rem_#F8F8AB] transition">
+                                            Check !
+                                        </button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
