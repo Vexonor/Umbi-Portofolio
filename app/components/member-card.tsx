@@ -24,7 +24,7 @@ export function MemberCard() {
             name: "Michael",
             designation: "< UI / UX Designer />",
             role: "Bishop",
-            src: "/img/member-3.png",
+            src: "/img/member-3.jpg",
         }
     ];
     return <AnimatedTestimonials testimonials={testimonials} />;
